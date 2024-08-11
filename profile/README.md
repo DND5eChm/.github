@@ -1,11 +1,11 @@
 # DND5e不全书
 这是《5E不全书》，即DND5e已翻译资源的整合，不是《5E全书》，也不以任何人的名字署名！
 
-[主域名](https://5echm.kagangtuya.top)，托管于个人服务器。
+**[主域名](https://5echm.kagangtuya.top)**，托管于服务器。
 
-[备用域名](https://5echm.aivu.top)，托管于Github Pages。
+**[备用域名](https://5echm.aivu.top)**，托管于Github Pages。
 
-[请到发布页面下载最新的CHm文件](https://github.com/DND5eChm/DND5e_chm/releases)
+请到发布页面下载最新的CHm文件 **[发布页](https://github.com/DND5eChm/DND5e_chm/releases)**
 
 使用工具为
 [优秀小巧的 CHM 编辑器 WinCHM Pro 5.492 中文免费版 - 大眼仔旭 (dayanzai.me)](http://www.dayanzai.me/winchm.html)
